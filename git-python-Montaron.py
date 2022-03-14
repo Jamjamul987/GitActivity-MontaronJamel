@@ -1,3 +1,7 @@
 print("Jamel Vanguardia Montaron")
 print("Daig Boac Maeinduque")
 print("May 16 2002")
+print("Marinduque State College")
+print("Information Technology")
+print("2nd year college")
+print("BSIT 2C")
